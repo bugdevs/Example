@@ -1,12 +1,12 @@
 import React, { Component } from 'react'
 
-import ExampleComponent from 'utility-belt'
+import { Sample } from 'utility-belt'
 
 export default class App extends Component {
   render () {
     return (
       <div>
-        <ExampleComponent text='Modern React component module' />
+        <Sample text='Modern React component module' />
       </div>
     )
   }

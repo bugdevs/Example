@@ -61,7 +61,7 @@ class FilterDrawer extends PureComponent {
     const { menuItems, selected } = this.state
 
     return (
-      <div>
+      <div className="utility-component-filter-drawer">
         <Drawer
           className="filter-drawer"
           type={Drawer.DrawerTypes.TEMPORARY}
@@ -120,7 +120,8 @@ class FilterDrawer extends PureComponent {
             </Button>
           </div>
         </Drawer>
-      </div>)
+      </div>
+    )
   }
 }
 

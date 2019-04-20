@@ -1,1 +1,1 @@
-export Sample from './sample'
+export ControlledTable from './components/dataTable/ControlledTable'

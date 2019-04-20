@@ -13,7 +13,7 @@ import {
   , ListItem
 } from 'react-md'
 
-import { tableSort } from '../../utils/baseTools'
+import { tableSort } from '../../utils/tools'
 import TableProgressControl from './TableProgressControl'
 
 class BaseTable extends PureComponent {

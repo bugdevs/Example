@@ -1,1 +1,0 @@
-export ControlledTable from './ControlledTable'

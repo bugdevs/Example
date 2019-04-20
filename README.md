@@ -1,7 +1,5 @@
 # utility-belt
 
-> 
-
 [![NPM](https://img.shields.io/npm/v/utility-belt.svg)](https://www.npmjs.com/package/utility-belt) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
@@ -29,3 +27,4 @@ class Example extends Component {
 ## License
 
 MIT © [bugdevs](https://github.com/bugdevs)
+utilities for development
